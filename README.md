@@ -2,7 +2,11 @@
 # 🚀 Facebook Clone UI con Flutter
 
 Este proyecto presenta una réplica exacta de la interfaz de usuario de Facebook, desarrollada utilizando Flutter. Cada elemento, desde la barra de navegación hasta las secciones de noticias y notificaciones, ha sido meticulosamente recreado para ofrecer una experiencia visual auténtica. Explora la versatilidad de Flutter mientras navegas por esta copia detallada de la popular plataforma de redes sociales. ¡Sumérgete en la experiencia de Facebook con este emocionante clon UI! 📱✨
-
+</br>
+</br>
+![clone de facebook](https://github.com/bryandejesusrt/facebook_clone_ui/assets/71520172/0c894ed9-abcf-4f0e-9d4a-611ff4547576)
+</br>
+</br>
 ## Capturas de Pantalla  
 
 >[!NOTE]
